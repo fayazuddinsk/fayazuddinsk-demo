@@ -1,4 +1,4 @@
 # fayazuddinsk-demo
 This is my first github repository.
 <br>
-Author - shaik.fayazuddin
+Author - shaik.fayazuddin(sk.riyaz)
